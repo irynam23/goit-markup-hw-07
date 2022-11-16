@@ -1,0 +1,44 @@
+.main__title {
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 1.36;
+    text-align: center;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--white-color);
+    width: 696px;
+    margin: 0 auto 30px auto;
+}
+
+.secondary-title {
+    font-size: 36px;
+    line-height: 1.17;
+    text-align: center;
+    color: var(--main-text-color);
+    margin-bottom: 50px;
+}
+
+.feature__title {
+    font-size: 14px;
+    line-height: 1.14;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: var(--main-text-color);
+    margin-bottom: 10px;
+}
+
+.modal-title {
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 1.15;
+    text-align: center;
+    color: var(--main-text-color);
+}
+
+.portfolio__title {
+    font-size: 18px;
+    line-height: 2;
+    letter-spacing: 0.06em;
+    color: var(--main-text-color);
+    margin-bottom: 4px;
+}
